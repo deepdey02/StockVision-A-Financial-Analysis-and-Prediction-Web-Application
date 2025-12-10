@@ -1,1 +1,3 @@
 # StockVision-A-Financial-Analysis-and-Prediction-Web-Application
+Investors often struggle to combine different dimensions of stock evaluation, fundamental analysis, technical analysis, price prediction, and financial risk modelling into a single platform. Existing tools are either too complex or lack integration between forecasting and financial models. Therefore, the problem addressed in this project is:
+“How to create a unified system that analyses stock fundamentals, visualises technical indicators, predicts future stock prices, and computes expected returns using CAPM in one accessible web application?”
